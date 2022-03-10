@@ -4,7 +4,7 @@
 
 [https://github.com/J0J000/Computer-Architecture](https://github.com/J0J000/Computer-Architecture)
 
-## Content：
+## 项目内容：
 
 ### 1.单周期CPU代码分析：
 
