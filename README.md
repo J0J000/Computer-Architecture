@@ -5,11 +5,6 @@
 [https://github.com/J0J000/Computer-Architecture](https://github.com/J0J000/Computer-Architecture)
 
 ## Content：
-### 1. 单周期CPU代码分析：
-
-掌握单周期CPU特点
-
-熟悉Verilog HDL硬件设计语言
 
 ### 1.单周期CPU代码分析：
 
