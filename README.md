@@ -1,5 +1,5 @@
 # Verilog实现CPU指令序列
-## Computer-Architecture 计算机系统结构
+Computer-Architecture 计算机系统结构
 
 
 [https://github.com/J0J000/Computer-Architecture](https://github.com/J0J000/Computer-Architecture)
